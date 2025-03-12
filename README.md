@@ -26,23 +26,19 @@ The dashboard draws data from two primary sources:
 
 ## Screenshots
 
-![Home](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/51164266-5a0b-47ea-b6d1-a5fa690246b2)
+![Home](https://github.com/parthm2609/BI_360/blob/main/Home%20Page.png)
 
-![finance](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/1fc0ed8a-ba50-4692-8608-2c6c8e3b2b4e)
+![finance](https://github.com/parthm2609/BI_360/blob/main/Finance%20View.png)
 
-![sales](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/1c4fb047-1f52-4fc2-bd62-b0f3db4fa348)
+![sales](https://github.com/parthm2609/BI_360/blob/main/Sales%20View.png)
 
-![marketing](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/fbbab897-8f46-4254-a7e5-20e9e62e82b4)
+![marketing](https://github.com/parthm2609/BI_360/blob/main/Marketing%20view.png)
 
-![supply chain](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/48ac2f69-3b1f-42e8-bed3-79d473967ca1)
+![supply chain](https://github.com/parthm2609/BI_360/blob/main/Supply%20Chain.png)
 
-![Executive View](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/04831fc0-e244-4fd4-a1a2-4351655dd902)
+![Executive View](https://github.com/parthm2609/BI_360/blob/main/Executive%20view.png)
 
-![info](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/e447e598-7b55-42e9-8218-b0c7ca764a37)
-
-![support](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/f35366b9-a26c-4c55-81eb-6881686eb6a7)
-
-![data model](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/caaffcc0-1d47-4839-895a-7d6740911810)
+![data model](https://github.com/parthm2609/BI_360/blob/main/Model.png)
 
 
 
